@@ -2,6 +2,9 @@
 
 The Java Container is a lightweight library for managing dependencies and performing dependency injection, based on the [service container](https://laravel.com/docs/master/container) of [Laravel](https://laravel.com/).
 
+![Travis](https://img.shields.io/travis/DemianD/java-container.svg)
+![Bintray](https://img.shields.io/bintray/v/demian/maven/java-container.svg)
+
 ## Binding
 
 The `bind` method binds an interface to a concrete class. When the `Mail.class` is resolved, a `Mailgun.class` is returned.
