@@ -2,7 +2,7 @@
 
 The Java Container is a lightweight library for managing dependencies and performing dependency injection, based on the [service container](https://laravel.com/docs/master/container) of [Laravel](https://laravel.com/).
 
-![Travis](https://img.shields.io/travis/DemianD/java-container.svg)
+[![Build Status](https://travis-ci.com/DemianD/java-container.svg?branch=master)](https://travis-ci.com/DemianD/java-container)
 ![Bintray](https://img.shields.io/bintray/v/demian/maven/java-container.svg)
 
 ## Binding
